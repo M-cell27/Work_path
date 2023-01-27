@@ -1,5 +1,5 @@
 # Work_path
-A Special Job Requirements learning path, to work as Junior Data Scientist 
+A Special Job Requirements learning path, to work as Junior Data Scientist/
 Learning Path Courses: 
 Institute Polytechnique de Paris | École Polytechnique - Coursera - January, 2023: Hydro, Wind & Solar power: Resources, Variability & Forecast
 Duke University - Coursera - January, 2023 : Oil & Gas Industry Operations and Markets
