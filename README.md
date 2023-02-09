@@ -7,7 +7,7 @@ A Special Job Requirements learning path, to work as a Junior Data Scientist: Tr
 
 2.Duke University - Coursera - January, 2023 : Oil & Gas Industry Operations and Markets
 
-** 3.Indian School of Business - Coursera: Trading Strategies in Emerging Markets ** Still in progress...
+3.Indian School of Business - Coursera - Jan,2023 : Trading Strategies in Emerging Markets 
 
 4.Google - December, 2022: Google Data Analytics Professional Certificate
 
